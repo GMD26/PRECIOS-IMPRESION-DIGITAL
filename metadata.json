@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora de Precios de Impresión Fotográfica",
+  "description": "Calculadora de costos, optimización de rollos y cotizador en PDF para Grupo Más Digital",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
